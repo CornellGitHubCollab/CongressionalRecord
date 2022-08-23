@@ -1,1 +1,1 @@
-# CongressionalRecord
+The Congressional Record is the official record of the proceedings and debates of the United States Congress, published by the United States Government Publishing Office and issued when Congress is in session. The Congressional Record Index is updated daily online and published monthly. 
